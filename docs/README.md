@@ -6,13 +6,24 @@ Welcome to the OctoAcme Project Management documentation. This collection of gui
 
 ## Project Management Processes (Summary)
 
-OctoAcme uses an evidence-driven, iterative process to manage projects from conception through delivery and beyond. Our approach is built on these core principles:
+OctoAcme uses an evidence-driven, iterative process to manage projects from conception through delivery and beyond. Our approach emphasizes **clarity**, **accountability**, and **role alignment** to ensure successful project outcomes. We achieve this through:
+
+### Core Principles
 
 - **Customer-first focus**: Prioritize customer value and usability in every decision
-- **Clear ownership**: Each project has named Project Manager (PM) and Product Lead roles
+- **Clear ownership and accountability**: Each project has named owners for every critical function—from product definition to quality, infrastructure, and stakeholder management
+- **Role clarity and alignment**: Well-defined roles with explicit responsibilities ensure team members understand their contributions and how they interact with others
 - **Iterative delivery**: Deliver small, testable increments to enable rapid feedback
 - **Data-informed decisions**: Measure impact and iterate based on evidence
 - **Psychological safety**: Encourage feedback, learning, and continuous improvement
+
+### Why Clarity and Accountability Matter
+
+By clearly defining roles and responsibilities, OctoAcme ensures:
+- **Reduced ambiguity**: Everyone knows who is responsible for what, minimizing gaps and overlaps
+- **Faster decision-making**: Clear ownership enables quick, confident decisions
+- **Better collaboration**: Understanding role interactions promotes effective teamwork
+- **Improved outcomes**: Accountability drives quality, timeliness, and stakeholder satisfaction
 
 ### Project Lifecycle
 
